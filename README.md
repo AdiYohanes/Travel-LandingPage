@@ -1,4 +1,4 @@
-<h2> THIS IS LANDING PAGE FOR TRAVEL AGENCY</h2>
+<h2> THIS IS LANDING PAGE FOR TRAVEL AGENCY WITH RESPONSIVE DESIGN</h2>
 
 ![image](https://github.com/AdiYohanes/Travel-LandingPage/assets/105840796/82fca31c-c9d3-4a80-8133-e94e589fa13d)
 
@@ -14,7 +14,7 @@
 
 <br />
 
-## U CAN VISI THE WEBSITE HERE : 
+## U CAN VISIT THE WEBSITE HERE : 
 https://travel-landing-page-blush.vercel.app/
-
+<br /
 
