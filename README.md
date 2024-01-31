@@ -16,5 +16,5 @@
 
 ## U CAN VISIT THE WEBSITE HERE : 
 https://travel-landing-page-blush.vercel.app/
-<br /
+<br />
 
